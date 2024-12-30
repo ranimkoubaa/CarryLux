@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "67706c8c4e7f695bbbe4c5a5"
+  },
+  "name": "Elegant Tote",
+  "description": "A stylish and spacious tote bag, perfect for everyday use. Made with high-quality materials",
+  "price": 49,
+  "imageUrl": "https://www.peqota.com/cdn/shop/files/GDB007NP-4.png?v=1686469869",
+  "available": true,
+  "createdAt": {
+    "$date": "2024-12-28T21:24:28.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T21:24:28.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67706f664e7f695bbbe4c5aa"
+  },
+  "name": "Crystal Bag",
+  "description": "A dazzling crystal-encrusted bag that captures the light with every movement. Perfect for making a statement at any glamorous event, this bag combines style with elegance, adding sparkle to your outfit",
+  "price": 92,
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-eAi9PdS_6chEtyD8rFNhpx32ZguEkzk5JTAcVKSfrL-Mizyh0dMbP5eIM5J-YOdv4ds&usqp=CAU",
+  "available": true,
+  "createdAt": {
+    "$date": "2024-12-28T21:36:38.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T21:36:38.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67729bcd4e7f695bbbe4c675"
+  },
+  "name": "Mini Crystal Bag",
+  "description": "Glorious Mini Bag",
+  "price": 68,
+  "imageUrl": "https://img.drz.lazcdn.com/g/kf/S740edd76041547aba4a72c205a5e0f42H.jpg_720x720q80.jpg",
+  "available": true,
+  "createdAt": {
+    "$date": "2024-12-30T13:10:37.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-30T13:11:03.456Z"
+  },
+  "__v": 0
+}]

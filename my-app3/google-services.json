@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056545292186",
+    "project_id": "my-expo-app2",
+    "storage_bucket": "my-expo-app2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056545292186:android:3abf9b0af0fece10280423",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54tMF8by-7NRvBhQFwPys4dYSA8N6wSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
