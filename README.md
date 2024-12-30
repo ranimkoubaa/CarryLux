@@ -26,14 +26,14 @@
 ## 📸 Captures d'Écran
 
 ### Page d’accueil  🛍️
-![Home page](images/index.jpeg)
+![Home page](images/Index.jpeg)
 
 ### Page d’accueil - Utilisateur 🛍️
-![Home User](images/home_user.jpeg)
+![Home User](images/Home_User.jpeg)
 
 
 ### Gestion des Produits - Administrateur 🛠️
-![Admin Dashboard](images/admin_page.jpeg)
+![Admin Dashboard](images/Admin_Page.jpeg)
 
 ### Edit d’un Sac 👜
 ![Bag Details](images/Edit.jpeg)
